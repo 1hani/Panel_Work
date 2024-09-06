@@ -1,5 +1,7 @@
 <?php 
 include('components/header.php')
+?>
+<?php
 include('PHP/query.php')
 ?>
 
